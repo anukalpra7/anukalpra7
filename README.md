@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Profile README -->
+# Hi, I'm Anukalp Raj 👋
 
-<!--
-**anukalpra7/anukalpra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** who graduated in **2025** 🎓 and is actively building skills in modern web development 💻✨.  
+I enjoy learning by building and improving things step by step 🚀🛠️.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Graduate (2025)
+- 💻 Full Stack Developer (in learning & practice phase)
+- 🌱 Currently focusing on strengthening fundamentals and building projects 🧱📚
+- 🚀 Motivated to grow as a developer and contribute to real-world applications 🌍💡
+
+---
+
+## 🛠 Tech Stack
+**Frontend**  
+- 🖥️ HTML, CSS, JavaScript  
+- ⚛️ React
+
+**Backend**  
+- 🟢 Node.js  
+- 🚂 Express.js
+
+**Database**  
+- 🍃 MongoDB
+
+**Tools**  
+- 🐙 Git & GitHub  
+- 📝 VS Code
+
+---
+
+## 📚 Current Focus
+- 🏗️ Building full-stack projects from scratch  
+- 🧩 Improving problem-solving and JavaScript skills  
+- 🧼 Learning best practices in clean code and GitHub usage
+
+---
+
+## 📌 Projects
+> 🚧 Projects coming soon...  
+Currently working on personal projects to apply my skills practically 👨‍💻🔥.
+
+---
+
+## 📫 Connect With Me
+- 🐱 GitHub: https://github.com/anukalpra7 
+- 📧 Email: anukalpra7@gmail.com  
